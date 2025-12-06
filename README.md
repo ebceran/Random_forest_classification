@@ -1,5 +1,4 @@
-Random Forest Classification – Model Interpretation Lab
-
+Add evaluation visuals and finalize Random Forest classification project
 This project demonstrates how a Random Forest classifier works, how it reduces overfitting compared to a single decision tree, and how to interpret feature importance for explainable machine learning, a critical requirement in finance, fraud detection, and regulated industries.
 
 
