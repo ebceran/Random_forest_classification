@@ -105,11 +105,11 @@ Matplotlib
 
 The following model evaluation visuals are included in the images/ directory:
 
-Feature Importance Chart – Top predictors identified by the Random Forest model
+-Feature Importance Chart – Top predictors identified by the Random Forest model
 
-Confusion Matrix – Classification performance on test data
+-Confusion Matrix – Classification performance on test data
 
-ROC Curve & AUC Score – Probability-based performance evaluation
+-ROC Curve & AUC Score – Probability-based performance evaluation
 
 These visualizations are essential for interpretability and are widely used in financial risk modelling, fraud detection, and regulated ML environments.
 
